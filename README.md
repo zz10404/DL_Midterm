@@ -2,7 +2,7 @@
 
 Because of large model sizes and Colab notebook rendering issues, the project is stored in Google Drive and linked below.
 
-
+https://drive.google.com/drive/folders/1uBm02xGpDe-fSGZVo89dQHYNjl6QVzzW?usp=sharing
 
 ## Structure
 
