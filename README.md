@@ -1,6 +1,6 @@
 # DL_Midterm
 
-Because of large model sizes and Colab notebook rendering issues, the project is stored in Google Drive and linked below.
+Because of large llama3_8b_math_verifier_checkpoint sizes and Colab notebook rendering issues, the project is stored in Google Drive and linked below.
 
 https://drive.google.com/drive/folders/1uBm02xGpDe-fSGZVo89dQHYNjl6QVzzW?usp=sharing
 
