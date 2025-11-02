@@ -6,6 +6,7 @@ Because of large model sizes and Colab notebook rendering issues, the project is
 
 ## Structure
 
+```
 DL_Midterm
 │
 ├── Version2 
@@ -26,7 +27,7 @@ DL_Midterm
         ├── loss_history.csv      
         ├── submission.csv        
         └── llama3_8b_math_verifier_checkpoint_version3_final
-
+```
 
 ## Version 1
 - run starter notebook
